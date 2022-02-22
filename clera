@@ -1,0 +1,17 @@
+[33mcommit 512a1cd269b8c2d30efaffaec50ae12baa9b7d17[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Elizabeth Vera <atienolizvera@gmail.com>
+Date:   Tue Feb 22 11:07:25 2022 +0300
+
+    add paragraph block elemenets to the page
+
+[33mcommit 4c169394a0b7dc9bebc78458cedfedd53c810b06[m
+Author: Elizabeth Vera <atienolizvera@gmail.com>
+Date:   Tue Feb 22 10:45:13 2022 +0300
+
+    add a message to the body
+
+[33mcommit cc9e646c4e9e0a2c9c01916de0872f0df776572d[m
+Author: Elizabeth Vera <atienolizvera@gmail.com>
+Date:   Tue Feb 22 10:16:52 2022 +0300
+
+    add initial page structure
